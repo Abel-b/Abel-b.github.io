@@ -1,5 +1,4 @@
 # My-web-portfolio
-This is Abel's Portfolio designed to be submitted to Moringa School due Sept 16, 2019 at 9:00am. 
 # Abel Berhane
 #### This is Abel's Portfolio designed to be submitted to Moringa School due Sept 16, 2019 at 9:00am. , Sept 13, 2019.
 ## Description
