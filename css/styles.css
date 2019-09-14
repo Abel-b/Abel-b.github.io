@@ -15,9 +15,9 @@ body {
 }
 #images {
   display: flex;
-  justify-content: center;
-  margin: 15px;
+  justify-content: space-evenly;
+  margin: 10px;
 }
 #image-item {
-  max-width: 500px;
+  max-width: 300px;
 }
