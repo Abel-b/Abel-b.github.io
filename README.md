@@ -5,12 +5,12 @@
 This project contains a Portfolio of Abel Berhane. It gives basic information for the question "Who is Abel Berhane?". It also contains a link to Abel's Photo.
 ## Author: Abel Berhane
 ## Installation Requirements
-* git (see setup instructions [here] (https://www.digitalocean.com/community/tutorials/how-to-contribute-to-open-source-getting-started-with git))
+* git (see setup instructions [here](https://www.digitalocean.com/community/tutorials/how-to-contribute-to-open-source-getting-started-with-git))
 * browser 
 ## Setup
 * clone this repository 
 `git clone https://github.com/Abel-b/Abel-b.github.io.git`
-* open .html with web-browser
+* open index.html with web-browser
 ## Technologies Used
 * HTML
 * CSS
