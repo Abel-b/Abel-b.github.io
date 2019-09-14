@@ -1,23 +1,48 @@
 h1 {
-  color: purple;
+  color: darkblue;
   text-align: center;
 }
 h2 {
-  color: burlywood;
-  font-style: italic;
-  text-align: center;
+  color: darkblue;
+  font-style: inherit;
+  text-align: left;
 }
 p {
   font-family: "Times New Roman", Times, serif;
+  float: center;
 }
 body {
-  background-color: lightblue;
+  background-color: silver;
 }
-#images {
+#images-box {
   display: flex;
   justify-content: space-evenly;
-  margin: 10px;
+  margin: 1px;
 }
 #image-item {
   max-width: 300px;
+  width: 30%;
+  background-color: lightblue;
+}
+.column {
+  width: 350px;
+  float: left;
+}
+#images-box {
+  border-left: 20px solid blue;
+  border-right: 20px solid blue;
+  border-top: 8px solid black;
+  border-bottom: 8px solid black;
+  padding: 30px;
+  margin: 5px;
+  background-color: lightblue;
+}
+#title-box {
+  border-left: 40px solid red;
+  border-right: 40px solid red;
+  border-top: 4px solid black;
+  border-bottom: 8px solid black;
+  padding: 3px;
+  margin: 50px;
+  width: 500px;
 }
