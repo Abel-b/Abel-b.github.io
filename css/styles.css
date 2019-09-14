@@ -46,3 +46,12 @@ body {
   margin: 50px;
   width: 1000px;
 }
+#About-me {
+  max-width: 500px;
+}
+@media only screen and (max-width: 1000px) {
+    #images-box {
+      flex-direction: column;
+      align-items: center;
+    }
+  }
