@@ -29,8 +29,8 @@ body {
   float: left;
 }
 #images-box {
-  border-left: 20px solid blue;
-  border-right: 20px solid blue;
+  border-left: 20px solid lightblue;
+  border-right: 20px solid lightblue;
   border-top: 8px solid black;
   border-bottom: 8px solid black;
   padding: 30px;
@@ -44,5 +44,5 @@ body {
   border-bottom: 8px solid black;
   padding: 3px;
   margin: 50px;
-  width: 500px;
+  width: 1000px;
 }
