@@ -1,18 +1,23 @@
 h1 {
-    color: purple;
-    text-align: center;
+  color: purple;
+  text-align: center;
 }
 h2 {
-    color: burlywood;
-    font-style: italic;
-    text-align: center;
+  color: burlywood;
+  font-style: italic;
+  text-align: center;
 }
 p {
-    font-family: 'Times New Roman', Times, serif;
+  font-family: "Times New Roman", Times, serif;
 }
-body { 
-    background-color: lightblue
+body {
+  background-color: lightblue;
 }
 #images {
-    display: flex
+  display: flex;
+  justify-content: center;
+  margin: 15px;
+}
+#image-item {
+    max-width: 500px;
 }
