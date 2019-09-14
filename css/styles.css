@@ -1,12 +1,15 @@
 h1 {
     color: purple;
     text-align: center;
-  }
+}
 h2 {
     color: burlywood;
     font-style: italic;
     text-align: center;
-  }
+}
 p {
     font-family: 'Times New Roman', Times, serif;
-  }
+}
+body { 
+    background-color: lightblue
+}
