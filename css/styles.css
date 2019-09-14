@@ -13,3 +13,6 @@ p {
 body { 
     background-color: lightblue
 }
+#images {
+    display: flex
+}
